@@ -5,8 +5,8 @@
 // ==============================
 // WIFI
 // ==============================
-const char* ssid = "hotspot_parth";
-const char* password = "pec_ertos";
+const char* ssid = "Wifi_Name";
+const char* password = "Wifi_Password";
 
 // ==============================
 // MQTT / HIVEMQ
